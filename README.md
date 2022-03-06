@@ -9,4 +9,4 @@ To run the script, the the command in terminal.
 - `#python3 port_scan.py domain.tld`
 
 By default the program will scan for ports between 20 to 29 , range(20,30)\
-Change the `range` in script to scan foor other ports.
+Change the `range` in script to scan for other ports.
